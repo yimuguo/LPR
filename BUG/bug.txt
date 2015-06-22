@@ -1,0 +1,6 @@
+some source files will not process I believe because the modulation freq extraction fails. THese files can be processed just fine with the old script, which does not deal with modulation freq. 
+
+OUT1 and 2 fail. Originally out 3 failed too but re-did 1 2 and 3 and 3 now works but 1 and 2 still fail. Likely because these files are NOT spread but we are trying to extract spread #.
+
+Debug as time allows.
+

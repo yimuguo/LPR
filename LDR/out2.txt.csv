@@ -1,0 +1,140 @@
+Source File: , out2.txt
+LPR Post-Processor Revision: , 5.0
+Frequency : mean (MHz) , 99.761
+Frequency (N=16) : min (MHz) , 99.500
+Frequency (N=16) : max (MHz) , 100.019
+Frequency (1us avg) : min (MHz) , 99.519
+Frequency (1us avg) : max (MHz) , 100.006
+Frequency (N=16) : pk-pk (MHz) , 0.519
+Frequency (N=16) : pk-pk (%) , 0.520
+Frequency Mod Maxima Max (MHz), 100.019499
+Frequency Mod Maxima Mean (MHz), 100.014798
+Frequency Mod Maxima Min (MHz), 100.011211
+Frequency Mod Minima Max (MHz), 99.511406
+Frequency Mod Minima Mean (MHz), 99.506419
+Frequency Mod Minima Min (MHz), 99.500413
+Frequency Mod Maxima Max (PPM) (100MHz), 194.99
+Frequency Mod Maxima Mean (PPM) (100MHz), 147.98
+Frequency Mod Maxima Min (PPM) (100MHz), 112.11
+Frequency Mod Maxima Max (PPM), 47.00
+Frequency Mod Maxima Mean (PPM), 0.00
+Frequency Mod Maxima Min (PPM), -35.86
+Frequency Mod Minima Max (PPM), -5033.18
+Frequency Mod Minima Mean (PPM), -5083.04
+Frequency Mod Minima Min (PPM), -5143.09
+Frequency Mod Maxima Max - Min (PPM), 82.86
+Frequency Mod Minima Max - Min (PPM), 110.48
+Frequency Mod 1/Tp2p Max (KHz), 33.190
+Frequency Mod 1/Tp2p Mean (KHz), 32.983
+Frequency Mod 1/Tp2p Min (KHz) , 32.755
+Period : mean (ns),10.024
+Period : min. (ns),9.975
+Period : max. (ns),10.076
+Period Jitter : pk-pk  (ps),101.128
+Period Jitter : R.M.S. (ps),16.347
+Cycle-to-Cycle Jitter  (ps),54.198
+C2C Jitter Mean : (ps), 11.383
+Long-Term Jitter @ 10us : (ps), 33559.648
+Gen1 E.C. : pk-pk (ps) Spec = 86 ps,34.839
+PCIe Gen 2 WORST RMS loBand (ps) Spec = 3 ps, 0.689
+PCIe Gen 2 WORST RMS hiBand (ps) Spec = 3.1 ps, 2.525
+Gen2 SRIS : RMS   (ps) Spec = 3 ps,2.097
+PCIe Gen 3 WORST RMS(ps) Spec = 1 ps, 0.772
+Gen3 SRIS : RMS   (ps) Spec = 0.5 ps,0.845
+Gen1 E.C. : RMS   (ps),3.346
+Gen2A Low : RMS   (ps),0.689
+Gen2A High : RMS   (ps),2.420
+Gen2B Low : RMS   (ps),0.322
+Gen2B High : RMS   (ps),2.525
+Gen3 4MHz : RMS   (ps),0.562
+Gen3 5MHz : RMS   (ps),0.772
+Gen2 SRIS : RMS   (ps),2.097
+Gen3 SRIS : RMS   (ps),0.845
+C2C Jitter -  1-cycle (ps):, 54.198
+C2C Jitter -  2-cycle (ps):, 46.161
+C2C Jitter -  3-cycle (ps):, 43.547
+C2C Jitter -  4-cycle (ps):, 50.083
+C2C Jitter -  5-cycle (ps):, 51.955
+C2C Jitter -  6-cycle (ps):, 51.073
+Largest Spurs (by magnitude), Spur Freq. - MHz, Spur Magnitude - ps
+, 0.0330,13.987
+, 0.0325, 9.252
+, 0.0335, 5.135
+, 0.0985, 1.427
+, 0.0990, 1.274
+, 0.0320, 0.640
+, 0.1645, 0.572
+, 0.0980, 0.348
+, 0.0340, 0.313
+,24.9730, 0.309
+,24.9075, 0.300
+, 0.1650, 0.298
+,25.0025, 0.297
+, 0.1640, 0.274
+, 0.2305, 0.270
+,24.9175, 0.242
+,24.5885, 0.241
+,24.7860, 0.236
+,24.9735, 0.233
+,24.9070, 0.230
+,22.9005, 0.228
+, 0.2300, 0.221
+,24.6215, 0.218
+,22.9000, 0.216
+,25.0030, 0.214
+,24.7200, 0.209
+,36.6810, 0.207
+, 0.0995, 0.206
+,34.2190, 0.202
+,37.0430, 0.202
+,37.3390, 0.198
+,37.5695, 0.197
+,36.6480, 0.197
+,38.5235, 0.193
+,39.9385, 0.193
+,36.0230, 0.193
+,24.9505, 0.192
+,36.0560, 0.192
+,37.0100, 0.192
+,39.2475, 0.190
+Largest Spurs (by frequency), Spur Freq. - MHz, Spur Magnitude - ps
+, 0.0320, 0.640
+, 0.0325, 9.252
+, 0.0330,13.987
+, 0.0335, 5.135
+, 0.0340, 0.313
+, 0.0980, 0.348
+, 0.0985, 1.427
+, 0.0990, 1.274
+, 0.0995, 0.206
+, 0.1640, 0.274
+, 0.1645, 0.572
+, 0.1650, 0.298
+, 0.2300, 0.221
+, 0.2305, 0.270
+,22.9000, 0.216
+,22.9005, 0.228
+,24.5885, 0.241
+,24.6215, 0.218
+,24.7200, 0.209
+,24.7860, 0.236
+,24.9070, 0.230
+,24.9075, 0.300
+,24.9175, 0.242
+,24.9505, 0.192
+,24.9730, 0.309
+,24.9735, 0.233
+,25.0025, 0.297
+,25.0030, 0.214
+,34.2190, 0.202
+,36.0230, 0.193
+,36.0560, 0.192
+,36.6480, 0.197
+,36.6810, 0.207
+,37.0100, 0.192
+,37.0430, 0.202
+,37.3390, 0.198
+,37.5695, 0.197
+,38.5235, 0.193
+,39.2475, 0.190
+,39.9385, 0.193

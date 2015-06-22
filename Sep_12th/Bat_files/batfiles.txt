@@ -1,0 +1,3 @@
+Z:\DAN\WinNTCmdFiles\pythonLPR.bat
+Z:\DAN\WinNTCmdFiles\processNewTXT.bat
+
